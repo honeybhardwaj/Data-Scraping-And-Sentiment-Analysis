@@ -1,4 +1,4 @@
-# Data-Scraping-And-Sentiment-Analysis
+![Data-Scraping-And-Sentiment-Analysis](https://socialify.git.ci/honeybhardwaj/Data-Scraping-And-Sentiment-Analysis/image?description=1&forks=1&issues=1&language=1&owner=1&stargazers=1&theme=Light)
 
 The project is Web Scraping and Sentiment Analysis For Hotels Reviews of www.yelp.com. This project have 2 sub parts in which work was carried out and learning was done accordingly:
 
